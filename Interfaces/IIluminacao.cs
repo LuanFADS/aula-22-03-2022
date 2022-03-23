@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aula._22._03._2022.Interfaces
 {
-    public interface IEletroDomestico
+    public interface IIluminacao : IEletroDomestico
     {
-        void Ligar();
-        void Desligar();
+        void ObterPotenciaLampada();
     }
 }

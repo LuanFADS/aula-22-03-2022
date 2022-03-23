@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Aula._22._03._2022.Classes
 {
-    public class Abajur : IEletroDomestico
+    public class Abajur : IIluminacao
     {
         public void Desligar()
         {
@@ -17,6 +17,11 @@ namespace Aula._22._03._2022.Classes
         public void Ligar()
         {
             Console.WriteLine($"{nameof(Abajur)} Ligou.");
+        }
+
+        public void ObterPotenciaLampada()
+        {
+            Console.WriteLine($"{nameof(Abajur)}" + $"possui potência de 100 watts!");
         }
     }
 }
