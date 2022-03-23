@@ -1,0 +1,7 @@
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\bin\Debug\Aula.22.03.2022.exe.config
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\bin\Debug\Aula.22.03.2022.exe
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\bin\Debug\Aula.22.03.2022.pdb
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\obj\Debug\Aula.22.03.2022.csproj.AssemblyReference.cache
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\obj\Debug\Aula.22.03.2022.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\obj\Debug\Aula.22.03.2022.exe
+C:\Users\facec.lab01\source\repos\Aula.22.03.2022\Aula.22.03.2022\obj\Debug\Aula.22.03.2022.pdb

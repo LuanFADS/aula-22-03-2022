@@ -14,6 +14,9 @@ namespace Aula._22._03._2022
         {
             IEletroDomestico eletro1 = new Televisao();
 
+            eletro1.Ligar();
+            eletro1.Desligar();
+
             Console.ReadLine();
         }
     }
